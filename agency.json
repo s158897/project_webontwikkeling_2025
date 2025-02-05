@@ -5,7 +5,7 @@
         "name": "Creative Artists Agency",
         "founded": 1975,
         "active": true,
-        "image": "images/caa_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
     },
     
     {
@@ -13,7 +13,7 @@
         "name": "William Morris Endeavor",
         "founded": 1898,
         "active": true,
-        "image": "images/wme_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
     },
 
     {
@@ -21,7 +21,7 @@
         "name": "International Creative Management",
         "founded": 1975,
         "active": true,
-        "image": "images/icm_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/icm_logo.jpg"
     },
     
     {
@@ -29,7 +29,7 @@
         "name": "United Talent Agency",
         "founded": 1991,
         "active": true,
-        "image": "images/uta_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"
     },
     
     {
@@ -37,7 +37,7 @@
         "name": "CAA",
         "founded": 1975,
         "active": true,
-        "image": "images/caa_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
     },
     
     {
@@ -45,7 +45,7 @@
         "name": "WME",
         "founded": 1898,
         "active": true,
-        "image": "images/wme_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
     },
     
     {
@@ -53,7 +53,7 @@
         "name": "UTA",
         "founded": 1991,
         "active": true,
-        "image": "images/uta_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"
     },
     
     {
@@ -61,7 +61,7 @@
         "name": "WME",
         "founded": 1898,
         "active": true,
-        "image": "images/wme_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
     },
     
     {
@@ -69,7 +69,7 @@
         "name": "CAA",
         "founded": 1975,
         "active": true,
-        "image": "images/caa_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
     },
     
     {
@@ -77,6 +77,6 @@
         "name": "WME",
         "founded": 1898,
         "active": true,
-        "image": "images/wme_logo.jpg"
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
     }
 ]

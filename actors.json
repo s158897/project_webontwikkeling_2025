@@ -7,7 +7,7 @@
         "age": 49,
         "active": true,
         "birthdate": "1974-11-11",
-        "image": "images/dicaprio.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/dicaprio.jpg",
         "gender": "male",
         "hobbies": ["Milieuactivisme", "Reizen", "Fotografie"]      
       },
@@ -18,7 +18,7 @@
         "age": 39,
         "active": true,
         "birthdate": "1984-11-22",
-        "image": "images/johansson.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/johansson.jpg",
         "gender": "female",
         "hobbies": ["Zingen", "Mode", "Kunst"]        
       },
@@ -29,7 +29,7 @@
         "age": 69,
         "active": true,
         "birthdate": "1954-12-28",
-        "image": "images/washington.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/washington.jpg",
         "gender": "male",
         "hobbies": ["Basketbal", "Lezen", "Regisseren"]        
       },
@@ -40,7 +40,7 @@
         "age": 46,
         "active": true,
         "birthdate": "1977-09-15",
-        "image": "images/hardy.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/hardy.jpg",
         "gender": "male",
         "hobbies": ["Vechtkunsten", "Schrijven", "Honden"]        
       },
@@ -51,7 +51,7 @@
         "age": 58,
         "active": true,
         "birthdate": "1965-04-04",
-        "image": "images/downey.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/downey.jpg",
         "gender": "male",
         "hobbies": ["Acteren", "Muziek", "Reizen"]        
       },
@@ -62,7 +62,7 @@
         "age": 42,
         "active": true,
         "birthdate": "1981-06-09",
-        "image": "images/portman.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/portman.jpg",
         "gender": "female",
         "hobbies": ["Lezen", "Dansen", "Activisme"]       
       },
@@ -73,7 +73,7 @@
         "age": 60,
         "active": true,
         "birthdate": "1963-12-18",
-        "image": "images/pitt.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/pitt.jpg",
         "gender": "male",
         "hobbies": ["Architectuur", "Motoren", "Fotografie"]        
       },
@@ -84,7 +84,7 @@
         "age": 40,
         "active": true,
         "birthdate": "1983-08-11",
-        "image": "images/hemsworth.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/hemsworth.jpg",
         "gender": "male",
         "hobbies": ["Fitness", "Surfen", "Boksen"]        
       },
@@ -95,7 +95,7 @@
         "age": 33,
         "active": true,
         "birthdate": "1990-07-02",
-        "image": "images/robbie.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/robbie.jpg",
         "gender": "female",
         "hobbies": ["Skateboarden", "Lezen", "Paardrijden"]       
       },
@@ -106,7 +106,7 @@
         "age": 59,
         "active": true,
         "birthdate": "1964-09-02",
-        "image": "images/reeves.jpg",
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/reeves.jpg",
         "gender": "male",
         "hobbies": ["Motorrijden", "Muziek", "Martial arts"]        
       }      

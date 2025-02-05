@@ -1,0 +1,82 @@
+[
+    
+    {
+        "id": 101,
+        "name": "Creative Artists Agency",
+        "founded": 1975,
+        "active": true,
+        "image": "images/caa_logo.jpg"
+    },
+    
+    {
+        "id": 102,
+        "name": "William Morris Endeavor",
+        "founded": 1898,
+        "active": true,
+        "image": "images/wme_logo.jpg"
+    },
+
+    {
+        "id": 103,
+        "name": "International Creative Management",
+        "founded": 1975,
+        "active": true,
+        "image": "images/icm_logo.jpg"
+    },
+    
+    {
+        "id": 104,
+        "name": "United Talent Agency",
+        "founded": 1991,
+        "active": true,
+        "image": "images/uta_logo.jpg"
+    },
+    
+    {
+        "id": 105,
+        "name": "CAA",
+        "founded": 1975,
+        "active": true,
+        "image": "images/caa_logo.jpg"
+    },
+    
+    {
+        "id": 106,
+        "name": "WME",
+        "founded": 1898,
+        "active": true,
+        "image": "images/wme_logo.jpg"
+    },
+    
+    {
+        "id": 107,
+        "name": "UTA",
+        "founded": 1991,
+        "active": true,
+        "image": "images/uta_logo.jpg"
+    },
+    
+    {
+        "id": 108,
+        "name": "WME",
+        "founded": 1898,
+        "active": true,
+        "image": "images/wme_logo.jpg"
+    },
+    
+    {
+        "id": 109,
+        "name": "CAA",
+        "founded": 1975,
+        "active": true,
+        "image": "images/caa_logo.jpg"
+    },
+    
+    {
+        "id": 110,
+        "name": "WME",
+        "founded": 1898,
+        "active": true,
+        "image": "images/wme_logo.jpg"
+    }
+]

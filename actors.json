@@ -1,0 +1,115 @@
+
+    [
+      {
+        "id": 1,
+        "name": "Leonardo DiCaprio",
+        "bio": "Leonardo DiCaprio is een Amerikaanse acteur bekend van films zoals Titanic, Inception en The Revenant.",
+        "age": 49,
+        "active": true,
+        "birthdate": "1974-11-11",
+        "image": "images/dicaprio.jpg",
+        "gender": "male",
+        "hobbies": ["Milieuactivisme", "Reizen", "Fotografie"]      
+      },
+      {
+        "id": 2,
+        "name": "Scarlett Johansson",
+        "bio": "Scarlett Johansson is een Amerikaanse actrice bekend van haar rollen in de Marvel Cinematic Universe en Lost in Translation.",
+        "age": 39,
+        "active": true,
+        "birthdate": "1984-11-22",
+        "image": "images/johansson.jpg",
+        "gender": "female",
+        "hobbies": ["Zingen", "Mode", "Kunst"]        
+      },
+      {
+        "id": 3,
+        "name": "Denzel Washington",
+        "bio": "Denzel Washington is een Amerikaanse acteur en regisseur, bekend van Training Day en Malcolm X.",
+        "age": 69,
+        "active": true,
+        "birthdate": "1954-12-28",
+        "image": "images/washington.jpg",
+        "gender": "male",
+        "hobbies": ["Basketbal", "Lezen", "Regisseren"]        
+      },
+      {
+        "id": 4,
+        "name": "Tom Hardy",
+        "bio": "Tom Hardy is een Britse acteur bekend van Inception, The Dark Knight Rises en Mad Max: Fury Road.",
+        "age": 46,
+        "active": true,
+        "birthdate": "1977-09-15",
+        "image": "images/hardy.jpg",
+        "gender": "male",
+        "hobbies": ["Vechtkunsten", "Schrijven", "Honden"]        
+      },
+      {
+        "id": 5,
+        "name": "Robert Downey Jr.",
+        "bio": "Robert Downey Jr. is een Amerikaanse acteur bekend van zijn rol als Iron Man in de Marvel Cinematic Universe.",
+        "age": 58,
+        "active": true,
+        "birthdate": "1965-04-04",
+        "image": "images/downey.jpg",
+        "gender": "male",
+        "hobbies": ["Acteren", "Muziek", "Reizen"]        
+      },
+      {
+        "id": 6,
+        "name": "Natalie Portman",
+        "bio": "Natalie Portman is een Israëlisch-Amerikaanse actrice bekend van Black Swan en de Star Wars prequels.",
+        "age": 42,
+        "active": true,
+        "birthdate": "1981-06-09",
+        "image": "images/portman.jpg",
+        "gender": "female",
+        "hobbies": ["Lezen", "Dansen", "Activisme"]       
+      },
+      {
+        "id": 7,
+        "name": "Brad Pitt",
+        "bio": "Brad Pitt is een Amerikaanse acteur en producent bekend van Fight Club en Once Upon a Time in Hollywood.",
+        "age": 60,
+        "active": true,
+        "birthdate": "1963-12-18",
+        "image": "images/pitt.jpg",
+        "gender": "male",
+        "hobbies": ["Architectuur", "Motoren", "Fotografie"]        
+      },
+      {
+        "id": 8,
+        "name": "Chris Hemsworth",
+        "bio": "Chris Hemsworth is een Australische acteur bekend van zijn rol als Thor in de Marvel Cinematic Universe.",
+        "age": 40,
+        "active": true,
+        "birthdate": "1983-08-11",
+        "image": "images/hemsworth.jpg",
+        "gender": "male",
+        "hobbies": ["Fitness", "Surfen", "Boksen"]        
+      },
+      {
+        "id": 9,
+        "name": "Margot Robbie",
+        "bio": "Margot Robbie is een Australische actrice bekend van The Wolf of Wall Street en Barbie.",
+        "age": 33,
+        "active": true,
+        "birthdate": "1990-07-02",
+        "image": "images/robbie.jpg",
+        "gender": "female",
+        "hobbies": ["Skateboarden", "Lezen", "Paardrijden"]       
+      },
+      {
+        "id": 10,
+        "name": "Keanu Reeves",
+        "bio": "Keanu Reeves is een Canadese acteur bekend van The Matrix en John Wick.",
+        "age": 59,
+        "active": true,
+        "birthdate": "1964-09-02",
+        "image": "images/reeves.jpg",
+        "gender": "male",
+        "hobbies": ["Motorrijden", "Muziek", "Martial arts"]        
+      }      
+    ]
+  
+  

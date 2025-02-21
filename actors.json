@@ -11,7 +11,7 @@
     "hobbies": ["Milieuactivisme", "Reizen", "Fotografie"],
     "agency": {
         "id": 101,
-        "name": "Creative Artists Agency",
+        "name": "CAA",
         "founded": 1975,
         "active": true,
         "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
@@ -29,7 +29,7 @@
     "hobbies": ["Zingen", "Mode", "Kunst"],
     "agency": {
       "id": 102,
-      "name": "William Morris Endeavor",
+      "name": "WME",
       "founded": 1898,
       "active": true,
       "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
@@ -47,7 +47,7 @@
     "hobbies": ["Basketbal", "Lezen", "Regisseren"],
     "agency": {
       "id": 103,
-      "name": "International Creative Management",
+      "name": "ICM",
       "founded": 1975,
       "active": true,
       "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/icm_logo.jpg"
@@ -65,7 +65,7 @@
     "hobbies": ["Vechtkunsten", "Schrijven", "Honden"],
     "agency": {
       "id": 104,
-      "name": "United Talent Agency",
+      "name": "UTA",
       "founded": 1991,
       "active": true,
       "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"

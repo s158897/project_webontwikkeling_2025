@@ -9,7 +9,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/dicaprio.jpg",
     "gender": "male",
     "hobbies": ["Milieuactivisme", "Reizen", "Fotografie"],
-    "agency": 101
+    "agency": {
+        "id": 101,
+        "name": "Creative Artists Agency",
+        "founded": 1975,
+        "active": true,
+        "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
+      }
   },
   {
     "id": 2,
@@ -21,7 +27,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/johansson.jpg",
     "gender": "female",
     "hobbies": ["Zingen", "Mode", "Kunst"],
-    "agency": 102
+    "agency": {
+      "id": 102,
+      "name": "William Morris Endeavor",
+      "founded": 1898,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
+    }
   },
   {
     "id": 3,
@@ -33,7 +45,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/washington.jpg",
     "gender": "male",
     "hobbies": ["Basketbal", "Lezen", "Regisseren"],
-    "agency": 103
+    "agency": {
+      "id": 103,
+      "name": "International Creative Management",
+      "founded": 1975,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/icm_logo.jpg"
+    }
   },
   {
     "id": 4,
@@ -45,7 +63,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/hardy.jpg",
     "gender": "male",
     "hobbies": ["Vechtkunsten", "Schrijven", "Honden"],
-    "agency": 104
+    "agency": {
+      "id": 104,
+      "name": "United Talent Agency",
+      "founded": 1991,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"
+    }
   },
   {
     "id": 5,
@@ -57,7 +81,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/downey.jpg",
     "gender": "male",
     "hobbies": ["Acteren", "Muziek", "Reizen"],
-    "agency": 105
+    "agency": {
+      "id": 105,
+      "name": "CAA",
+      "founded": 1975,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
+    }
   },
   {
     "id": 6,
@@ -69,7 +99,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/portman.jpg",
     "gender": "female",
     "hobbies": ["Lezen", "Dansen", "Activisme"],
-    "agency": 106
+    "agency": {
+      "id": 106,
+      "name": "WME",
+      "founded": 1898,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
+    }
   },
   {
     "id": 7,
@@ -81,7 +117,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/pitt.jpg",
     "gender": "male",
     "hobbies": ["Architectuur", "Motoren", "Fotografie"],
-    "agency": 107
+    "agency": {
+      "id": 107,
+      "name": "UTA",
+      "founded": 1991,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"
+    }
   },
   {
     "id": 8,
@@ -93,7 +135,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/hemsworth.jpg",
     "gender": "male",
     "hobbies": ["Fitness", "Surfen", "Boksen"],
-    "agency": 108
+    "agency": {
+      "id": 108,
+      "name": "WME",
+      "founded": 1898,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
+    }
   },
   {
     "id": 9,
@@ -105,7 +153,13 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/robbie.jpg",
     "gender": "female",
     "hobbies": ["Skateboarden", "Lezen", "Paardrijden"],
-    "agency": 109
+    "agency": {
+      "id": 109,
+      "name": "CAA",
+      "founded": 1975,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
+    }
   },
   {
     "id": 10,
@@ -117,6 +171,12 @@
     "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/reeves.jpg",
     "gender": "male",
     "hobbies": ["Motorrijden", "Muziek", "Martial arts"],
-    "agency": 110
+    "agency": {
+      "id": 110,
+      "name": "WME",
+      "founded": 1898,
+      "active": true,
+      "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
+    }
   }
 ]

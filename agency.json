@@ -2,7 +2,7 @@
     
     {
         "id": 101,
-        "name": "CAA",
+        "name": "Creative Artists Agency",
         "founded": 1975,
         "active": true,
         "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/caa_logo.jpg"
@@ -10,7 +10,7 @@
     
     {
         "id": 102,
-        "name": "WME",
+        "name": "William Morris Endeavor",
         "founded": 1898,
         "active": true,
         "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/wme_logo.jpg"
@@ -18,7 +18,7 @@
 
     {
         "id": 103,
-        "name": "ICM",
+        "name": "International Creative Management",
         "founded": 1975,
         "active": true,
         "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/icm_logo.jpg"
@@ -26,7 +26,7 @@
     
     {
         "id": 104,
-        "name": "UTA",
+        "name": "United Talent Agency",
         "founded": 1991,
         "active": true,
         "image": "https://raw.githubusercontent.com/s158897/project_webontwikkeling_2025/refs/heads/main/images/uta_logo.jpg"
